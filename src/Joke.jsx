@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import "./Joke.css";
 
 export default class Joke extends Component {
