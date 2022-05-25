@@ -85,7 +85,7 @@
     transform: translateY(-2px);
 }
 
-/* @keyframes shake-slow {
+@keyframes shake-slow {
     0% {
       transform: translate(0px, 0px) rotate(0deg);
     }
@@ -236,4 +236,4 @@
     98% {
       transform: translate(10px, -9px) rotate(2.5deg);
     }
-  } */
+  }

@@ -67,7 +67,7 @@
     color: #f44336;
 }
 
-/* @keyframes move-down {
+@keyframes move-down {
     0%,
     50%,
     100% {
@@ -77,7 +77,7 @@
     75% {
       transform: translateY(3px);
     }
-} */
+}
 
 .Joke-smiley{
     font-size: 2rem;
@@ -93,7 +93,7 @@
     animation-delay: 0s;
 }
   
-/* @keyframes spin {
+@keyframes spin {
     0% {
       transform: rotate(0deg);
     }
@@ -109,4 +109,4 @@
     100% {
       transform: rotate(0deg);
     }
-} */
+}
