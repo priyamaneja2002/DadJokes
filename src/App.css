@@ -1,9 +1,9 @@
 .App{
   font-family: 'Rubik', sans-serif;
   color: #78909c;
-  /* display: flex;
+  display: flex;
   align-items: center;
-  justify-content: center; */
+  justify-content: center;
   height: 100vh;
   background: linear-gradient(135deg, 
   rgba(179,229,252,1) 0%, 

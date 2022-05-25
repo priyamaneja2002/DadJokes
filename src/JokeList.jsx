@@ -76,7 +76,7 @@ export default class JokeList extends Component {
     }
     let jokes = this.state.jokes.sort((a,b) => b.votes - a.votes);
     return (
-      <div className="Jokelist" style={{display: "flex", width: "80%" , height: "80%" }}>
+      <div className="Jokelist">
         <div className="JokeList-sidebar">
           <h1 className="JokeList-title">
             <span>Dad</span> Jokes
